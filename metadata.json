@@ -1,0 +1,6 @@
+{
+  "name": "Flywheel: The Entrepreneur's Journey",
+  "description": "A story-driven business simulation game teaching real entrepreneurship, management strategy, financial modeling, and disciplined leadership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
